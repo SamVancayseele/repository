@@ -1,0 +1,1408 @@
+{
+  "settings": {
+    "currentPage": "english.html",
+    "versionFirst": "2.8.6",
+    "versionPublish": "2.9",
+    "name": "My Site",
+    "favicon": "",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/sam/Documents/GitHub/repository",
+    "publishGDriveLocation": "sam.vancayseele94@gmail.com",
+    "publishGDrivePath": "",
+    "path": "file:///C:/Users/sam/Pictures/School/website",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Sam Vancayseele",
+        "meta_descr": "Sam Vancayseele (°1994) is student Grafiek en Tekenkunst aan LUCA School Of Arts Gent. Zijn werk bestaat hoofdzakelijk uit realistische houtskooltekeningen. Tot 2015 liet hij zich vooral inspireren door het landschap en de natuur, heden ten dage gaat hij op zoek naar vormen van banaliteit. Woorden of beelden die hij tegenkomt of in zijn gedachten verschijnen, maken kans om op zijn blad gevormd te worden. Net als hijzelf is zijn werk een stoorzender tussen serieus en banaal.",
+        "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
+        "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "17px"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "menu-0",
+          "_params": {
+            "color": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1451483250-177x177-16.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAM VANCAYSEELE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">NEW</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-7\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#slider-10\">WORK</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery1-11\">EXHIBITIONS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-12\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">NL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"english.html\">EN</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery1-11\"></a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "image1",
+          "_anchor": "image1-9",
+          "_params": {
+            "outside": false,
+            "bgColor": "#252525",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dscn2978-2-5140x3104-97.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": ""
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-7",
+          "_params": {
+            "showCaption": true,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dfsfdsfsdfsd-2103x952-61.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "<br><br>OVER",
+          "meta": "",
+          "text": "<p><br></p><p>Sam Vancayseele (°1994) is student Grafiek en Tekenkunst aan LUCA School Of Arts Gent. Zijn werk bestaat hoofdzakelijk uit realistische houtskooltekeningen. Tot 2015 liet hij zich vooral inspireren door het landschap en de natuur, heden ten dage gaat hij op zoek naar vormen van banaliteit. Woorden of beelden die hij tegenkomt of in zijn gedachten verschijnen, maken kans om op zijn blad gevormd te worden. Net als hijzelf is zijn werk een stoorzender tussen serieus en banaal.</p><p><br></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "slider",
+          "_styles": {
+            ".btn": {
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/dscn2968-3708x5038-30.jpg",
+                "showTitle": true,
+                "title": "WERK",
+                "showText": true,
+                "text": "",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2016.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2016</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/11046200-10206651304072427-2288509525872056853-o-2048x1369-61.jpg",
+                "showTitle": true,
+                "title": "WERK",
+                "showText": true,
+                "text": "",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2015.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2015</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/10257138-10206644710987604-3357437987194368001-o-1613x1388-1.jpg",
+                "showTitle": true,
+                "title": "WERK",
+                "showText": true,
+                "text": "",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2014.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">2014</a> "
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff"
+          },
+          "_anchor": "slider-10",
+          "articleLayout": false
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/12540927-10207353963823084-5755405463897441764-n-706x960-13-706x960-14.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12540927-10207353963823084-5755405463897441764-n-706x960-13.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/2016-01-18-kopie-2-701x969-22-701x969-14.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2016-01-18-kopie-2-701x969-22.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/expanded-drawing-425x809-74-425x809-83.jpg",
+                "image": "@PROJECT_PATH@/assets/images/expanded-drawing-425x809-74.jpg",
+                "active": true
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/903761-10151352167170911-4381368-o-2031x969-19-2000x954-82.jpg",
+                "image": "@PROJECT_PATH@/assets/images/903761-10151352167170911-4381368-o-2031x969-19.jpg",
+                "active": false
+              }
+            ],
+            "bgColor": "#efefef",
+            "fullWidth": false,
+            "noGutter": true
+          },
+          "_anchor": "gallery1-11",
+          "articleLayout": false
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-12",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1451483250-177x177-58.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "text1": "<strong>ADRESS</strong><br>Sam Vancayseele<br>Sterrestraat 1<br>8900 Ieper",
+          "text2": "<strong>CONTACT</strong><br>\nEmail: sam.vancayseele94@gmail.com<br>\nPhone: 0492 78 44 85<br><br><a href=\"https://www.instagram.com/sam_vancayseele/\" class=\"text-gray\">INSTAGRAM</a><br><br>",
+          "text3": "<ul class=\"mbr-contacts__list\"></ul>"
+        },
+        {
+          "_name": "features1",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "features1-7",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": true,
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/12773096-979547798760219-1740150280-o-2048x1360-29.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "http://www.googledrive.com/host/0B7un9Hy8aXtebjAzTDdVYU0wc00/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title1": "FABRICE SOUVEREINS",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/12784631-1033304130064211-205388-n-596x839-33.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "http://www.googledrive.com/host/0B7Nh_T27UvSCLU0xMGNRTjl1OU0/index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title2": "LANDER ALLAERT",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/12068651-1213703035312260-6379284126642196371-o-2048x1990-24.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "http://www.googledrive.com/host/0Bz6tsYodpzjcS3pEVEE4WVNWak0/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title3": "NATHAN VANDEVIJVER",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/12773398-10208491973247283-1377931164-o-1365x2048-47.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "http://www.googledrive.com/host/0B-T0_wahdDYGMkZxTWVKSkFVb1k/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title4": "ELKE&nbsp;SEYS",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_name": "features1",
+          "_anchor": "features1-9",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/deco-087-2011-830ac94a6459d74fec4f144213a79483-890x920-30.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "http://www.xavierhufkens.com/artists/thierry-de-cordier",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title1": "THIERRY DECORDIER",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/h-130-l-r-300-698x500-39.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "http://petermorrens.com/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title2": "PETER&nbsp;MORRENS",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-mg-9260-copy-filtered-375x542-59.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "http://www.rikdeboe.be",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title3": "RIK&nbsp;DE BOE",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/rinus-van-de-velde-untitled-2e686-630x470-72.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "rinusvandevelde.com/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title4": "RINUS VANDEVELDE<br><br>",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-25",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/\"><img alt=\"Creative Commons License\" src=\"https://i.creativecommons.org/l/by-nd/4.0/88x31.png\"></a>&nbsp;2015 Sam Vancayseele.| <a class=\"mbr-footer__link text-gray\" href=\"copyright.html\">Privacy Policy</a>"
+        }
+      ]
+    },
+    "english.html": {
+      "settings": {
+        "title": "Sam Vancayseele",
+        "meta_descr": "Sam Vancayseele (°1994) is student Grafiek en Tekenkunst aan LUCA School Of Arts Gent. Zijn werk bestaat hoofdzakelijk uit realistische houtskooltekeningen. Tot 2015 liet hij zich vooral inspireren door het landschap en de natuur, heden ten dage gaat hij op zoek naar vormen van banaliteit. Woorden of beelden die hij tegenkomt of in zijn gedachten verschijnen, maken kans om op zijn blad gevormd te worden. Net als hijzelf is zijn werk een stoorzender tussen serieus en banaal.",
+        "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
+        "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "17px"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "menu-10",
+          "_params": {
+            "color": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1451483250-177x177-16.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAM VANCAYSEELE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">NEW</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-7\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#slider-10\">WORK</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery1-11\">EXHIBITIONS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-12\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">NL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"english.html\">EN</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery1-11\"></a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "image1",
+          "_anchor": "image1-11",
+          "_params": {
+            "outside": false,
+            "bgColor": "#252525",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dscn2978-2-5140x3104-97.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": ""
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-12",
+          "_params": {
+            "showCaption": true,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dfsfdsfsdfsd-2103x952-61.png",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "<br><br>ABOUT",
+          "meta": "",
+          "text": "<p><br></p><p>Sam Vancayseele (°1994) is a student in Graphics- and Drawingarts at LUCA School Of Arts Ghent. His work consists mainly of realistic charcoal drawings. Until 2015, he was mainly inspired by the landscape and nature. These days he goes in search for forms of banality . Words or images he encountersor appaer in his thoughts, have a chance to be formed on paper. &nbsp;Just like him his work is white noise between serious and trivial .</p><p><br></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "slider",
+          "_styles": {
+            ".btn": {
+              "font-size": "46px"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/dscn2968-3708x5038-30.jpg",
+                "showTitle": true,
+                "title": "WORK",
+                "showText": true,
+                "text": "",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2016.html\" data-toolbar=\"-mbrBtnMove\">2016</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/11046200-10206651304072427-2288509525872056853-o-2048x1369-61.jpg",
+                "showTitle": true,
+                "title": "WORK",
+                "showText": true,
+                "text": "",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2015.html\" data-toolbar=\"-mbrBtnMove\">2015</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/10257138-10206644710987604-3357437987194368001-o-1613x1388-1.jpg",
+                "showTitle": true,
+                "title": "WORK",
+                "showText": true,
+                "text": "",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page2014.html\" data-toolbar=\"-mbrBtnMove\">2014</a> "
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff"
+          },
+          "_anchor": "slider-13",
+          "articleLayout": false
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/12540927-10207353963823084-5755405463897441764-n-706x960-13-706x960-14.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12540927-10207353963823084-5755405463897441764-n-706x960-13.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/2016-01-18-kopie-2-701x969-22-701x969-14.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2016-01-18-kopie-2-701x969-22.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/expanded-drawing-425x809-74-425x809-83.jpg",
+                "image": "@PROJECT_PATH@/assets/images/expanded-drawing-425x809-74.jpg",
+                "active": true
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/903761-10151352167170911-4381368-o-2031x969-19-2000x954-82.jpg",
+                "image": "@PROJECT_PATH@/assets/images/903761-10151352167170911-4381368-o-2031x969-19.jpg",
+                "active": false
+              }
+            ],
+            "bgColor": "#efefef",
+            "fullWidth": false,
+            "noGutter": true
+          },
+          "_anchor": "gallery1-14",
+          "articleLayout": false
+        },
+        {
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "contacts1-15",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1451483250-177x177-58.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "text1": "<strong>ADRESS</strong><br>Sam Vancayseele<br>Sterrestraat 1<br>8900 Ieper",
+          "text2": "<strong>CONTACT</strong><br>\nEmail: sam.vancayseele94@gmail.com<br>\nPhone: 0492 78 44 85<br><br><a href=\"https://www.instagram.com/sam_vancayseele/\" class=\"text-gray\">INSTAGRAM</a><br><br>",
+          "text3": "<ul class=\"mbr-contacts__list\"></ul>"
+        },
+        {
+          "_name": "features1",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "features1-16",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": true,
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/12773096-979547798760219-1740150280-o-2048x1360-29.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "googledrive.com/host/0B7un9Hy8aXtebjAzTDdVYU0wc00",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title1": "FABRICE SOUVEREINS",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/12784631-1033304130064211-205388-n-596x839-33.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "googledrive.com/host/0B7Nh_T27UvSCLU0xMGNRTjl1OU0/index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title2": "LANDER ALLAERT",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/12068651-1213703035312260-6379284126642196371-o-2048x1990-24.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title3": "NATHAN VANDEVIJVER",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/12773398-10208491973247283-1377931164-o-1365x2048-47.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "googledrive.com/host/0B-T0_wahdDYGMkZxTWVKSkFVb1k/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title4": "ELKE&nbsp;SEYS",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_name": "features1",
+          "_anchor": "features1-17",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/deco-087-2011-830ac94a6459d74fec4f144213a79483-890x920-30.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "http://www.xavierhufkens.com/artists/thierry-de-cordier",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title1": "THIERRY DECORDIER",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/h-130-l-r-300-698x500-39.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "http://petermorrens.com/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title2": "PETER&nbsp;MORRENS",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-mg-9260-copy-filtered-375x542-59.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "http://www.rikdeboe.be",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title3": "RIK&nbsp;DE BOE",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/rinus-van-de-velde-untitled-2e686-630x470-72.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "rinusvandevelde.com/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title4": "RINUS VANDEVELDE<br><br>",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        }
+      ]
+    },
+    "copyright.html": {
+      "settings": {
+        "title": "copyright"
+      },
+      "components": [
+        {
+          "_name": "content1",
+          "_anchor": "content1-26",
+          "text": "Naamsvermelding-GeenAfgeleideWerken (BY-ND): Deze licentie staat herpublicatie toe, commercieel en niet-commercieel, zolang het werk in haar geheel en onveranderd wordt aangeboden en zolang Sam Vancayseele als maker wordt genoemd."
+        }
+      ]
+    },
+    "page2014.html": {
+      "settings": {
+        "title": "Sam Vancayseele",
+        "meta_descr": "Sam Vancayseele (°1994) is student Grafiek en Tekenkunst aan LUCA School Of Arts Gent. Zijn werk bestaat hoofdzakelijk uit realistische houtskooltekeningen. Tot 2015 liet hij zich vooral inspireren door het landschap en de natuur, heden ten dage gaat hij op zoek naar vormen van banaliteit. Woorden of beelden die hij tegenkomt of in zijn gedachten verschijnen, maken kans om op zijn blad gevormd te worden. Net als hijzelf is zijn werk een stoorzender tussen serieus en banaal.",
+        "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
+        "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "17px"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "menu-45",
+          "_params": {
+            "color": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1451483250-177x177-16.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAM VANCAYSEELE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">NEW</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-7\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#slider-10\">WORK</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery1-11\">EXHIBITIONS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-12\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">NL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"english.html\">EN</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery1-11\"></a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-53",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/\"><img alt=\"Creative Commons License\" src=\"https://i.creativecommons.org/l/by-nd/4.0/88x31.png\"></a>&nbsp;2015 Sam Vancayseele.| <a class=\"mbr-footer__link text-gray\" href=\"copyright.html\">Privacy Policy</a>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/11068072-10206644709747573-8310500392670535971-o-1024x1362-22-1024x1362-86.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11068072-10206644709747573-8310500392670535971-o-1024x1362-22.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/1658159-10206644709867576-2743630050874152575-o-1118x1485-77-1118x1485-46.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1658159-10206644709867576-2743630050874152575-o-1118x1485-77.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/10484776-10206644710707597-4933547754510773956-o-1708x1173-57-1708x1173-85.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10484776-10206644710707597-4933547754510773956-o-1708x1173-57.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/10828111-10206651303832421-1310207792845672214-o-1419x2048-21-1419x2048-40.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10828111-10206651303832421-1310207792845672214-o-1419x2048-21.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/10257138-10206644710987604-3357437987194368001-o-1613x1388-80-1613x1388-98.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10257138-10206644710987604-3357437987194368001-o-1613x1388-80.jpg",
+                "active": true
+              }
+            ],
+            "bgColor": "#ffffff",
+            "fullWidth": true,
+            "noGutter": false
+          },
+          "_anchor": "gallery1-54",
+          "articleLayout": false
+        }
+      ]
+    },
+    "page2015.html": {
+      "settings": {
+        "title": "Sam Vancayseele",
+        "meta_descr": "Sam Vancayseele (°1994) is student Grafiek en Tekenkunst aan LUCA School Of Arts Gent. Zijn werk bestaat hoofdzakelijk uit realistische houtskooltekeningen. Tot 2015 liet hij zich vooral inspireren door het landschap en de natuur, heden ten dage gaat hij op zoek naar vormen van banaliteit. Woorden of beelden die hij tegenkomt of in zijn gedachten verschijnen, maken kans om op zijn blad gevormd te worden. Net als hijzelf is zijn werk een stoorzender tussen serieus en banaal.",
+        "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
+        "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "17px"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "menu-55",
+          "_params": {
+            "color": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1451483250-177x177-16.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAM VANCAYSEELE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">NEW</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-7\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#slider-10\">WORK</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery1-11\">EXHIBITIONS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-12\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">NL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"english.html\">EN</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery1-11\"></a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-56",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/\"><img alt=\"Creative Commons License\" src=\"https://i.creativecommons.org/l/by-nd/4.0/88x31.png\"></a>&nbsp;2015 Sam Vancayseele.| <a class=\"mbr-footer__link text-gray\" href=\"copyright.html\">Privacy Policy</a>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/11046200-10206651304072427-2288509525872056853-o-2048x1369-45-2000x1337-4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11046200-10206651304072427-2288509525872056853-o-2048x1369-45.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/1403004-10207382968003568-3478818063243256938-o-kopie-2-999x519-59-999x519-41.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1403004-10207382968003568-3478818063243256938-o-kopie-2-999x519-59.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dscn2855-3824x2995-13-2000x1566-4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscn2855-3824x2995-13.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/11950341-10208565707611319-5462463376241137562-o-563x1635-80-563x1635-69.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11950341-10208565707611319-5462463376241137562-o-563x1635-80.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/12274449-10208565707771323-3785831031843267513-n-690x960-17-690x960-4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12274449-10208565707771323-3785831031843267513-n-690x960-17.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/1403004-10207382968003568-3478818063243256938-o-2-756x991-70-756x991-37.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1403004-10207382968003568-3478818063243256938-o-2-756x991-70.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dscn2850-2-3667x2887-78-2000x1575-30.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dscn2850-2-3667x2887-78.jpg",
+                "active": true
+              }
+            ],
+            "bgColor": "#ffffff",
+            "fullWidth": true,
+            "noGutter": false
+          },
+          "_anchor": "gallery1-27",
+          "articleLayout": false
+        }
+      ]
+    },
+    "page2016.html": {
+      "settings": {
+        "title": "Sam Vancayseele",
+        "meta_descr": "Sam Vancayseele (°1994) is student Grafiek en Tekenkunst aan LUCA School Of Arts Gent. Zijn werk bestaat hoofdzakelijk uit realistische houtskooltekeningen. Tot 2015 liet hij zich vooral inspireren door het landschap en de natuur, heden ten dage gaat hij op zoek naar vormen van banaliteit. Woorden of beelden die hij tegenkomt of in zijn gedachten verschijnen, maken kans om op zijn blad gevormd te worden. Net als hijzelf is zijn werk een stoorzender tussen serieus en banaal.",
+        "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
+        "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "17px"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "menu-58",
+          "_params": {
+            "color": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1451483250-177x177-16.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SAM VANCAYSEELE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\">NEW</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-7\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#slider-10\">WORK</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery1-11\">EXHIBITIONS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-12\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">NL</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"english.html\">EN</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#gallery1-11\"></a></li> ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-59",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#444444",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nd/4.0/\"><img alt=\"Creative Commons License\" src=\"https://i.creativecommons.org/l/by-nd/4.0/88x31.png\"></a>&nbsp;2015 Sam Vancayseele.| <a class=\"mbr-footer__link text-gray\" href=\"copyright.html\">Privacy Policy</a>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/3676029-orig-596x800-2-596x800-12.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3676029-orig-596x800-2.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/3945118-orig-1069x800-34-1069x800-93.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3945118-orig-1069x800-34.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/5445236-orig-999x800-95-999x800-81.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5445236-orig-999x800-95.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/8610377-orig-623x800-48-623x800-11.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8610377-orig-623x800-48.jpg",
+                "active": true
+              }
+            ],
+            "bgColor": "#ffffff",
+            "fullWidth": true,
+            "noGutter": false
+          },
+          "_anchor": "gallery1-60",
+          "articleLayout": false
+        }
+      ]
+    }
+  }
+}
